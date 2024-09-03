@@ -7,4 +7,6 @@ I analyzed the dataset provided by preprocessing the data,cleaning the data and 
 
 The dashboard that i have published is attached below:
 
+![Screenshot (208)](https://github.com/user-attachments/assets/f416c1a8-35ed-4186-96e7-07c1b87cbf84)
+
 
