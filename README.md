@@ -6,3 +6,5 @@
 I analyzed the dataset provided by preprocessing the data,cleaning the data and also visualizing the Unemployment and employment rates of each state and also on the basis of the monthly Unemployment rates and employment rate visualized the data for better insights and also used the tool that is Microsoft Power BI for transforming the Data and also visualized the data and created valuable reports and dashboard and published it to gain the better and quick insights about the data and also understand about the relationship that exists between different attributes.
 
 The dashboard that i have published is attached below:
+
+
